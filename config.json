@@ -1,0 +1,6 @@
+{
+	"client_id": "APPLE_SERVICE_ID",
+	"redirect_uri": "https://examlple.com/auth/apple/callback",
+	"team_id": "APPLE_TEAM_ID",
+	"key_identifier": "APPLE_PRIVATE_KEY_ID"
+}
